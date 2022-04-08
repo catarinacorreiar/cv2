@@ -1,0 +1,87 @@
+body {
+    margin: 0; 
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+    margin:0;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #DAB88B;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #DAB88B;
+}
+hr {
+    border-color: #F3E9DD;
+    border-width: 5px; 
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width:5%;
+}
+.header {
+    position: relative;
+    bottom: 670px;
+    
+}
+.parag {
+    position: relative;
+    bottom: 680px;
+    font-size: 120%;
+    color: black;
+}
+.clouds{
+    position:relative;
+    width:100%;
+    bottom:200px;
+}
+
+.top-container {
+    background-color: #B7CADB;
+    height: 100vh;
+}
+.middle-container {
+    background-color: white;
+    margin: 10px;
+}
+.bottom-container {
+    background-color: white;
+}
+.table_skills {
+    margin-left: auto;
+    margin-right: auto;
+}
+.skill-row1 {
+    width:50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row {
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.ideaimg {
+    float: left;
+    margin: 20px;
+}
+.webicon {
+    float: left;
+    margin: 20px;
+}
+.printer {
+    float: right;
+    margin: 20px;
+}
+.mngt {
+    float: right;
+    margin: 20px;
+}
