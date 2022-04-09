@@ -28,8 +28,25 @@ hr {
 }
 a{
     font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #166088;
 }
-
+a:hover {
+    color: white;
+}
+.kp{
+    font-family: 'Merriweather', serif;
+    margin:0;
+}
+.kp:hover{
+    color: #B7CADB;
+}
+.copyright{
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
 .header {
     position: relative;
     bottom: 670px;
