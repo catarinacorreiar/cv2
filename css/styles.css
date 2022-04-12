@@ -18,7 +18,8 @@ h3 {
     color: #DAB88B;
 }
 hr {
-    border-color: #F3E9DD;
+    border-color: #DAB88B;
+    background-color: #FDF6EC;
     border-width: 5px; 
     border-style: none;
     border-top-style: dotted;
@@ -70,7 +71,9 @@ a:hover {
 }
 .middle-container {
     background-color: white;
-    margin: 50px 0;
+}
+.myphoto{
+    margin: 5%;
 }
 .bottom-container {
     background-color: #B7CADB;
@@ -136,4 +139,8 @@ a:hover {
   }
   .getintouch {
       margin-bottom: 50px;
+  }
+  .navbar{
+      position:absolute;
+      z-index: 1;
   }
