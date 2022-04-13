@@ -79,6 +79,9 @@ a:hover {
     background-color: #B7CADB;
     padding: 50px 0 20px;
 }
+.bot{
+    background-color: #B7CADB;
+}
 .table_skills {
     margin-left: auto;
     margin-right: auto;
@@ -140,7 +143,31 @@ a:hover {
   .getintouch {
       margin-bottom: 50px;
   }
-  .navbar{
+  .navindex{
       position:absolute;
       z-index: 1;
+  }
+  .coleft{
+      padding-left: 5%;
+  }
+  .colright{
+      padding-right: 5%;
+  }
+  .row{
+      padding-bottom: 2%;
+  }
+  .img-fluid{
+    width: 100%;
+    height: 22vw;
+    object-fit: cover;
+  }
+  .h2port{
+      padding: 2%;
+      font-weight: bold;
+  }
+  .rowbot{
+      margin-bottom: 5%;
+  }
+  .navbar{
+      background-color: #B7CADB;
   }
