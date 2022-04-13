@@ -17,6 +17,9 @@ h3 {
     font-family: 'Montserrat', sans-serif;
     color: #DAB88B;
 }
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
 hr {
     border-color: #DAB88B;
     background-color: #FDF6EC;
@@ -27,7 +30,7 @@ hr {
     width:4%;
     margin: 100px auto;
 }
-.a{
+.an{
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
@@ -49,7 +52,8 @@ a:hover {
 .copyright{
     color: white;
     font-size: 0.75rem;
-    padding: 20px 0;
+    padding: 20px 0 0;
+    margin:0;
 }
 .header {
     position: relative;
@@ -80,7 +84,10 @@ a:hover {
 }
 .bottom-container {
     background-color: #B7CADB;
-    padding: 50px 0 20px;
+    margin: 50px 0 0;
+    padding-top: 50px;
+    padding-bottom: 5%;
+
 }
 .bot{
     background-color: #B7CADB;
@@ -174,4 +181,7 @@ a:hover {
   
   .navbar{
       background-color: #B7CADB;
+  }
+  .contact-me{
+      margin: 5%;
   }
