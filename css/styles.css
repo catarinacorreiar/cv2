@@ -27,11 +27,14 @@ hr {
     width:4%;
     margin: 100px auto;
 }
-a{
+.a{
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
     color: #166088;
+}
+.aweb{
+    margin:0;
 }
 a:hover {
     color: white;
